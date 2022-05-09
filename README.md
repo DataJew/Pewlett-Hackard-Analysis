@@ -48,7 +48,7 @@ Using the ERD you created in this module as a reference and your knowledge of SQ
     > * 4,502 Technique Leader
     > * 1,761 Assistant Engineer
     
-**Image Below** 
+![name-of-you-image](https://github.com/DataJew/Pewlett-Hackard-Analysis/blob/main/Images/rerirement_eligibility_breakdown.png)
     
 
 
@@ -64,4 +64,4 @@ Using the ERD you created in this module as a reference and your knowledge of SQ
 
     No, we have 1,940 employees who are eligible to participate in a mentorship program. 
 
-**Image Below** 
+![name-of-you-image](https://github.com/DataJew/Pewlett-Hackard-Analysis/blob/main/Images/deliverable_image.png)
